@@ -5,14 +5,7 @@ config.php
 Tools/vendor
 Tools/Mailing/PHPMailer
 
-Public/Bootstrap/
-Public/JQuery/
-
-Public/InsideAdmin/inside_admin_template/
-
-Public/AppFront/app_default_template/img/
-
 Uploads/
 
-Services/Tmp/Debug.php
+Services/Tmp/
 xTMP/
